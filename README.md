@@ -1,2 +1,4 @@
 # IOT-Based-IV-Bag-Monitoring-System
-The IOT-based IV Bag Monitoring System is an innovative solution for enhancing patient safety in IV therapy. The system utilizes a set of sensors, a microcontroller to provide real time monitoring of the infusion fluid level and flow rate.
+IOT based IV bag monitoring system is project that aims to monitor and level of fluid in an IV bag (Saline bag) using IOT technology. This system can be used in hospitals and health care facilities to alert the staff members about level of fluid available in the bottle.
+
+Components used: HX711 Amplifier LCD 16x2 with I2C Interface 5kg Load Cell Arduino Uno R3 LED and Buzzer
